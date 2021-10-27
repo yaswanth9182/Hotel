@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react"
-import Card from "../components/card.js"
 import Hotel from "../components/hotel"
 import Swal from "sweetalert2"
 import styled from "styled-components"
